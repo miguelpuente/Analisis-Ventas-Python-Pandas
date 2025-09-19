@@ -6,7 +6,7 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) del dataset d
 
 ## Estructura del Repositorio
 
-- `analisis_ventas.ipynb`: Notebook de Google Colab que contiene todo el código fuente, incluyendo la carga de datos, la limpieza y el análisis.
+- `Análisis_de_datos_1.ipynb`: Notebook de Google Colab que contiene todo el código fuente, incluyendo la carga de datos, la limpieza y el análisis.
 - `datos/ventas.csv`: Dataset original utilizado para este análisis.
 - `README.md`: Este archivo, con la descripción del proyecto y las instrucciones.
 
@@ -20,8 +20,8 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) del dataset d
 Para replicar este análisis, seguí los siguientes pasos:
 
 1.  Cloná este repositorio en tu máquina local.
-    `git clone https://github.com/Tu-Usuario/Analisis-Ventas-Python-Pandas.git`
-2.  Abrí el archivo `analisis_ventas.ipynb` en Google Colab o Jupyter.
+    `git clone https://github.com/miguelpuente/Analisis-Ventas-Python-Pandas.git`
+2.  Abrí el archivo `Análisis_de_datos_1.ipynb` en Google Colab o Jupyter.
 3.  Aseguráte de que el archivo `ventas.csv` esté en el mismo directorio.
 4.  Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
 
